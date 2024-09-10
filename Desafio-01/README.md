@@ -1,4 +1,4 @@
-# Desafio - Preveja os resultados de um e-commerce utilizando o Power BI
+# Desafio 01 - Preveja os resultados de um e-commerce utilizando o Power BI
 
 Primeiro desafio do curso de formação em dados da Escola DNC.
 
