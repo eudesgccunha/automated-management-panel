@@ -2,13 +2,13 @@
 
 ## Contexto
 
-Objetivo: Construir um painel gerencial para um e-commerce que almeja estudar as vendas e assim, traçar a melhor estratégia para alavancar resultados.
+- Objetivo: Construir um painel gerencial para um e-commerce que almeja estudar as vendas e assim, traçar a melhor estratégia para alavancar resultados.
 
-Os dados estão distribuídos em duas bases de dados, uma com dados das vendas e outra com informações dos clientes.
+- Info sobre os dados: Os dados estão distribuídos em duas bases de dados, uma com dados das vendas e outra com informações dos clientes.
 
-Métricas e KPIs: Quantidade total e valor total de vendas, Contagem e valor total de vendas por data, quantidade e valor total por categoria.
+- Métricas e KPIs: Quantidade total e valor total de vendas, Contagem e valor total de vendas por data, quantidade e valor total por categoria.
 
-Foram criados filtros para fornecer ao usuário a melhor experiência.
+- Filtros: Foram criados filtros para fornecer ao usuário a melhor experiência.
 
 
 ## Entrega
