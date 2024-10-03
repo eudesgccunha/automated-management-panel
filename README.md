@@ -10,7 +10,7 @@ O dashboard desenvolvido conta com duas página para acompanhamento. A primeira 
 O dash foi entregue ao sponsor para que desenvolva planos de ação estratégicos com os demais times da empresa.
 
 
-### Contatos 
+### Contato
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eudesgccunha)
 
