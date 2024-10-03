@@ -1,4 +1,4 @@
-# Desafio 01 - Preveja os resultados de um e-commerce utilizando o Power BI
+# Prevendo os resultados de um e-commerce utilizando o Power BI
 
 ## Contexto
 
