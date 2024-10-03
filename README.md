@@ -1,4 +1,4 @@
-# ReadMe
+# Power BI Projects
 
 Projetos desenvolvidos durante o aprendizado em Análise e Ciência de Dados.
 
