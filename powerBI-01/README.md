@@ -1,14 +1,14 @@
 # Desafio 01 - Preveja os resultados de um e-commerce utilizando o Power BI
 
-Primeiro desafio do curso de formação em dados da Escola DNC.
-
 ## Contexto
 
-Neste desafio, você deverá construir um painel gerencial para um e-commerce que almeja estudar as suas vendas e assim, traçar a melhor estratégia para alavancar seus resultados.
-Você receberá duas bases de dados, uma com dados das vendas e outra com informações dos clientes. Com isso, crie duas páginas para que os analistas possam visualizar as métricas.
-Crie as determinadas métricas: Quantidade total e valor total de vendas, Contagem e valor total de vendas por data, quantidade e valor total por categoria e crie os filtros necessários para fornecer ao usuário a melhor experiência.
+Objetivo: Construir um painel gerencial para um e-commerce que almeja estudar as vendas e assim, traçar a melhor estratégia para alavancar resultados.
 
-Para satisfazer a necessidade do cliente, o  PO do projeto pediu alguns gráficos, os quais estão apresentados no dashboard.
+Os dados estão distribuídos em duas bases de dados, uma com dados das vendas e outra com informações dos clientes.
+
+Métricas e KPIs: Quantidade total e valor total de vendas, Contagem e valor total de vendas por data, quantidade e valor total por categoria.
+
+Foram criados filtros para fornecer ao usuário a melhor experiência.
 
 
 ## Entrega
